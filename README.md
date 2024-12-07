@@ -26,7 +26,7 @@ SpringBoot框架+Netty通讯服务+云快充1.4-1.5-1.6协议模块介绍
 
 ![extending-a-theme](/001.png)
 ![extending-a-theme](/002.png)
-![extending-a-theme](/003.png)
+![extending-a-theme](/003.jpg)
 ![extending-a-theme](/004.png)
 ![extending-a-theme](/005.jpg)
 ![extending-a-theme](/lianxi.jpg)
